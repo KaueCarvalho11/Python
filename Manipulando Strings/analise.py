@@ -1,0 +1,10 @@
+frase = "Programando em python"
+print(len(frase))
+print(frase.count('a'))
+print(frase.count('a', 0, 7))
+print(frase.find('mando'))
+print(frase.find('maracuja'))
+print('python' in frase)
+print('maracuja' in frase)
+print(frase.find("PYTHON"))
+print(frase.upper().find("PYTHON"))
