@@ -1,0 +1,10 @@
+frase = "Programando em python"
+print(frase)
+print(frase.replace("python", "java"))
+frase = frase.replace("python", "java")
+print(frase.upper())
+print(frase.lower())
+print(frase.capitalize())
+print(frase.title())
+print(frase.count("O"))
+print(frase.upper().count("O"))
