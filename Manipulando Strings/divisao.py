@@ -1,5 +1,5 @@
 frase = "Programando em Python"
-#split = Divide a string em uma lista com todas as palavras da string
+# split = Divide a string em uma lista com todas as palavras da string
 print("-".join(frase))
 print(frase.split())
 frase2 = frase.split()
